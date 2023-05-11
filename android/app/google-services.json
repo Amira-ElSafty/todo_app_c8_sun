@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "69721416300",
+    "project_id": "todo-app-c8-sun",
+    "storage_bucket": "todo-app-c8-sun.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69721416300:android:4af70727e97533059a2e49",
+        "android_client_info": {
+          "package_name": "com.example.flutter_todo_app_c8_sun"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "69721416300-ebbv7aekqpscu9be9me4ot1h28kpfeq8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOCVmp5xiBl-K5eXHVbBp0WGlPSSIGwbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "69721416300-ebbv7aekqpscu9be9me4ot1h28kpfeq8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
